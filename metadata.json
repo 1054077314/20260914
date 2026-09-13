@@ -1,0 +1,6 @@
+{
+  "name": "The Decision Ledger",
+  "description": "Frontier LLM decision intelligence and executive audit benchmark across survival, compliance, cash flow, and audio grounding suites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
